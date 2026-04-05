@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Inmaculada Trinado
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://inmaculadatrinadobc5.streamlit.app/
+# URL GitHub: https://github.com/itrinado/BC5
 
 # ============================================================
 # IMPORTS
